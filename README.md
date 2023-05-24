@@ -9,9 +9,20 @@
 
 - 📫 How to reach me **contact.majeedziyahul@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//ziyahul-ansath-585b01206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/ziyahul-ansath-585b01206" height="30" width="40" /></a>
 <a href="https://instagram.com//ziyahul_ansath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/ziyahul_ansath" height="30" width="40" /></a>
 <a href="https://www.behance.net//ziyahulansath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="/ziyahulansath" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">👨‍💻 Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+<h3 align="left">🏆 Github Status:</h3>
+<p align="left">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZiyahulAnsath&background=0f222b&ring=f0c726&currStreakNum=fef9d7&sideNums=fef9d7&currStreakLabel=01d293&sideLabels=01d293&dates=fef9d7&hide_border=true&border_radius=10)](https://git.io/streak-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyahulAnsath&show_icons=true&theme=radical&hide_border=true&border_radius=10)
 </p>

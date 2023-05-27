@@ -27,6 +27,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZiyahulAnsath&background=0f222b&ring=f0c726&currStreakNum=fef9d7&sideNums=fef9d7&currStreakLabel=01d293&sideLabels=01d293&dates=fef9d7&hide_border=true&border_radius=10)](https://git.io/streak-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyahulAnsath&show_icons=true&bg_color=0f222b&title_color=01d293&text_color=fef9d7&icon_color=f0883e&ring_color=f0c726&card_width=50%&hide_border=true&border_radius=10)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyahulAnsath&layout=compact&bg_color=0f222b&title_color=01d293&text_color=fef9d7&langs_count=10&hide_border=true&border_radius=10)](https://github.com/ZiyahulAnsath/github-readme-stats)
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZiyahulAnsath&margin-w=15&margin-h=15)](https://github.com/ZiyahulAnsath/github-profile-trophy)
 </p>

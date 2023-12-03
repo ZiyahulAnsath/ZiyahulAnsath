@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BEng (Hons) in Software Engineering. London Metropolitan University**
 
-- 💻 All of my projects are available at [https://ziyahulansath.vercel.app/](https://ziyahulansath.vercel.app/)
+- 💻 All of my projects are available at [https:/ziyahulansath.vercel.app/](https://ziyahulansath.vercel.app/)
 
 - 📫 How to reach me **contact.majeedziyahul@gmail.com**
 
